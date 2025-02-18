@@ -1,7 +1,7 @@
 # TCC2
 TCC2 Walter Júnior
 
-Segue os arquivos de simulação de todos os componentes da matriz de Butler:
+Segue os arquivos de simulação (TCC2_Lib) de todos os componentes da matriz de Butler:
 
 ACOP_LC -> CIRCUITO EQUIVALENTE LC;
 
